@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraPlus</string>
+    <string name="title_activity_acercade">acercade</string>
+    <string name="title_activity_screem_splash">screemSplash</string>
+</resources>
