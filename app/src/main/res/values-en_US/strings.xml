@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CalculadoraPlus</string>
+    <string name="title_activity_acercade">about</string>
+    <string name="title_activity_screem_splash">screemSplash</string>
+    <string name="acercade_nombre">NAME:</string>
+    <string name="acercade_user">Ruben Carlos Andres Vasquez Gutierrez</string>
+    <string name="acercade_universidad">University MARIANA</string>
+    <string name="acercade_facultad_de_ingenieria">FACULTY OF ENGINEERING</string>
+    <string name="acercade_programa_de_ingenieria_de_sistemas">SYSTEMS ENGINEERING PROGRAM</string>
+    <string name="acercade_regresar">to return</string>
+    <string name="principal_signo_igual">=</string>
+    <string name="principal_cero">0</string>
+    <string name="principal_punto">.</string>
+    <string name="principal_slash">/</string>
+    <string name="principal_tres">3</string>
+    <string name="principal_dos">2</string>
+    <string name="principal_uno">1</string>
+    <string name="principal_signo_multi">*</string>
+    <string name="principal_ocho">8</string>
+    <string name="principal_signo_mas">+</string>
+    <string name="principal_seis">6</string>
+    <string name="principal_cinco">5</string>
+    <string name="principal_cuatro">4</string>
+    <string name="principal_signo_resta">-</string>
+    <string name="principal_nueve">9</string>
+    <string name="principal_siete">7</string>
+    <string name="principal_ac">AC</string>
+    <string name="principal_acerca_de">about</string>
+    <string name="principal_signo_tan">TAN</string>
+    <string name="principal_signo_cos">COS</string>
+    <string name="principal_signo_log">LOG</string>
+    <string name="principal_signo_sin">SIN</string>
+    <string name="principal_signo_raiz">√</string>
+    <string name="principal_signo_porcentaje">%</string>
+    <string name="princiapl_signo_parent">(</string>
+    <string name="principal_signo_parente">)</string>
+</resources>

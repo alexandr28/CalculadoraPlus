@@ -7,7 +7,7 @@ import android.widget.Button;
 
 public class AcercaDe extends AppCompatActivity {
 
-    private Button salir;
+    public Button salir;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

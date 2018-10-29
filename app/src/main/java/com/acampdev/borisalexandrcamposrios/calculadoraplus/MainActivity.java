@@ -10,23 +10,24 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public TextView pant;
-    public double operando1, operando2, resultado;
+    TextView pant;
+    double operando1, operando2, resultado;
     int ope;
-    public Button acercade;
+    Button acercade;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setContentView(R.layout.activity_main);
         pant=(TextView)findViewById(R.id.txt_resultado);
         acercade = (Button) findViewById(R.id.btnacerca);
+
         acercade.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent acerca = new Intent(MainActivity.this,AcercaDe.class);
-                startActivity(acerca);
+                Intent intent= new Intent(MainActivity.this,About.class);
+                startActivity(intent);
+                finish();
             }
         });
     }
