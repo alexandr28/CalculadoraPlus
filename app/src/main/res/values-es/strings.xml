@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">CalculadoraPlus</string>
-    <string name="title_activity_acercade">about</string>
+    <string name="title_activity_acercade">acercade</string>
     <string name="title_activity_screem_splash">screemSplash</string>
-    <string name="acercade_nombre">NAME:</string>
+    <string name="acercade_nombre">NOMBRE:</string>
     <string name="acercade_user">Ruben Carlos Andres Vasquez Gutierrez</string>
-    <string name="acercade_universidad">University MARIANA</string>
-    <string name="acercade_facultad_de_ingenieria">FACULTY OF ENGINEERING</string>
-    <string name="acercade_programa_de_ingenieria_de_sistemas">SYSTEMS ENGINEERING PROGRAM</string>
-    <string name="acercade_regresar">to return</string>
+    <string name="acercade_universidad">UNIVERSIDAD MARIANA</string>
+    <string name="acercade_facultad_de_ingenieria">FACULTAD DE INGENIERIA</string>
+    <string name="acercade_programa_de_ingenieria_de_sistemas">PROGRAMA DE INGENIERIA DE SISTEMAS</string>
+    <string name="acercade_regresar">REGRESAR</string>
     <string name="principal_signo_igual">=</string>
     <string name="principal_cero">0</string>
     <string name="principal_punto">.</string>
@@ -25,7 +25,7 @@
     <string name="principal_nueve">9</string>
     <string name="principal_siete">7</string>
     <string name="principal_ac">AC</string>
-    <string name="principal_acerca_de">about</string>
+    <string name="principal_acerca_de">ACERCA DE</string>
     <string name="principal_signo_tan">TAN</string>
     <string name="principal_signo_cos">COS</string>
     <string name="principal_signo_log">LOG</string>
